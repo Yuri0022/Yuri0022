@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Yuri 👋
 
-<!--
-**Yuri0022/Yuri0022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer focado em test automation, atuando hoje na **Evolua Energia** com uma abordagem de **Shift Left QA** — trazendo testes para o mais cedo possível no ciclo de desenvolvimento.
 
-Here are some ideas to get you started:
+## O que eu faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Automação de testes** com Robot Framework e Playwright, cobrindo interfaces web, Salesforce/CRM e APIs
+- **Testes de API**: validação de contrato, schema e casos negativos
+- **CI/CD**: integração de suítes de teste em pipelines automatizados
+- **Gestão de testes**: TestRail, Qase
+- **SQL** para validação de dados e testes de integração
+
+## Também explorando
+
+- Uso de IA para acelerar o processo de QA — desenvolvi skills customizadas para geração de cenários de teste a partir de histórias de usuário
+- Arquiteturas de orquestração de testes (CI/CD + automação de workflows)
+
+## Objetivo
+
+Construindo minha carreira em direção a oportunidades internacionais em QA/test automation.
+
+## Contato
+
+📫 [https://www.linkedin.com/in/yurigustavo/]
