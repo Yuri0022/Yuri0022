@@ -21,4 +21,4 @@ Construindo minha carreira em direção a oportunidades internacionais em QA/tes
 
 ## Contato
 
-📫 [https://www.linkedin.com/in/yurigustavo/]
+📫 https://www.linkedin.com/in/yurigustavo/
